@@ -1,0 +1,62 @@
+---
+title: Power analyses for detecting changes in salivary oxytocin and cortisol in different
+  social contexts in pigs
+author: "L.R. Moscovice"
+date: "3/16/2022"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Power analyses were performed for repeated measures ANOVAs, using the 'WebPower' package (Zhang & Mai, 2018) in R (v. 4.0.5); (https://rdrr.io/cran/WebPower/man/wp.rmanova.html)
+
+explanation of abbreviations in code:
+  
+* ng= number of groups or number of levels of the between-subject factor that are used in the study design. We indicated three groups, representing the baseline, negative and positive social contexts
+
+* nm= number of measurements, referring to the number of different measurements per subject. We indicated two measures for each subject, referring to two samples in each social context.
+
+* f= Cohens f estimate of effect size. We gave a Cohens f estimate for detecting changes in salivary cortisol following social stressors of 0.32, based on a meta-analysis by Michaud and colleagues 2008 (Table 3, converted from Cohens d value= 0.63). We give a Cohens f estimate for detecting changes in salivary oxytocin following stressors of 0.34, based on a meta-analysis by Brown and colleagues 2016 (Fig 1, converted from a Pearsons r value= 0.32).  
+
+* nscor= nonsphericity coefficient, estimated to be 1.0
+
+* type= 1 (indicates a within-effect test about the mean difference among measurements)
+
+Power curve for part a) Detecting salivary cortisol responses to stressors 
+
+
+```{r, message=FALSE}
+library(WebPower)
+wp.rmanova(n=seq(50,90,4), ng=3, nm=2, f=0.32, nscor=1.0, type=1)
+```
+```{r echo=FALSE}
+xx=wp.rmanova(n=seq(50,90,4), ng=3, nm=2, f=0.32, nscor=1.0, type=1)
+plot(xx)
+```
+
+Suggests a sample size of 78 pigs should be sufficient to detect a true effect with 80% probability
+
+Power curve for part b) Detecting salivary oxytocin responses to stressors 
+
+```{r, message=FALSE}
+library(WebPower)
+wp.rmanova(n=seq(50,90,4), ng=3, nm=2, f=0.34, nscor=1.0, type=1)
+```
+```{r echo=FALSE}
+xx=wp.rmanova(n=seq(50,90,4), ng=3, nm=2, f=0.34, nscor=1.0, type=1)
+plot(xx)
+```
+
+Suggests a sample size of 78 pigs should be sufficient to detect a true effect with 84% probability
+
+References:
+  
+Brown, C. A., Cardoso, C., and Ellenbogen, M. A. (2016). A meta-analytic review of the correlation between peripheral oxytocin and cortisol concentrations. Front. Neuroendocrinol. 43, 19–27. doi:10.1016/j.yfrne.2016.11.001  
+
+Michaud, K., Matheson, K., Kelly, O., and Anisman, H. (2008). Impact of stressors in a natural context on release of cortisol in healthy adult humans: A meta-analysis. Stress 11, 177–197. doi:10.1080/10253890701727874
+
+Zhiyong Zhang and Yujiao Mai (2018). WebPower: Basic and Advanced Statistical Power Analysis. R package version 0.5.2. https://CRAN.R-project.org/package=WebPower

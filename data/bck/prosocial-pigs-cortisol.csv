@@ -1,0 +1,525 @@
+sample,sex,sow,dg,group,group.order,lt,date,time,testday,context,cort_ngml,plate.name
+1,m,6079,DG-3,W,2,61,03. Nov 20,10:00,Baseline3,Baseline,3.214,Petra Cort 11.05.21
+1,m,6079,DG-3,W,2,61,03. Nov 20,10:34,Separation,Separation,16.721,Petra Cort 11.05.21
+1,m,6079,DG-3,W,2,61,03. Nov 20,10:55,Reunion,Reunion,7.448,Petra Cort 11.05.21
+1,m,6079,DG-3,W,1,28,1-Oct-20,08:42,Weaning,Weaning,12.236,Petra_Cort_12.04.21
+1,m,6079,DG-3,W,1,47,20-Oct-20,08:25,Baseline2,Baseline,2.715,Petra Cort 14.06.21
+1,m,6079,DG-3,W,1,35,8-Oct-20,08:44,Play,Play,7.378,Petra_Cort_07.04.21
+1,m,6079,DG-3,W,1,36,9-Oct-20,08:49,Baseline1,Baseline,7.143,Petra_Cort_07.04.21
+1,m,6099,DG-4,F,2,28,12. Nov 20,09:10,Weaning,Weaning,15.492,Petra_Cort_15.04.21
+1,m,6099,DG-4,F,2,35,19. Nov 20,09:43,Play,Play,5.086,Petra_Cort_15.04.21
+1,m,6099,DG-4,F,2,36,20. Nov 20,09:56,Baseline1,Baseline,5.999,Petra_Cort_15.04.21
+1,m,6099,DG-4,F,1,64,18-Dec-20,08:06,Baseline3,Baseline,12.57,Petra Cort 27.05.21
+1,m,6099,DG-4,F,1,64,18-Dec-20,08:30,Separation,Separation,7.035,Petra Cort 27.05.21
+1,m,6099,DG-4,F,1,64,18-Dec-20,08:49,Reunion,Reunion,7.916,Petra Cort 27.05.21
+1,m,6099,DG-4,F,1,49,3-Dec-20,08:15,Baseline2,Baseline,2.807,Petra Cort 15.06.21
+1,m,6142,DG-2,W,1,28,20. Aug 20,08:41,Weaning,Weaning,14.071,PM_Cort_19.02.21
+1,m,6142,DG-2,W,1,35,27. Aug 20,08:44,Play,Play,8.6,PM_Cort_19.02.21
+1,m,6142,DG-2,W,1,36,28. Aug 20,08:43,Baseline1,Baseline,5.191,Petra_Cort_12.04.21
+1,m,6142,DG-2,W,1,47,08. Sep 20,08:21,Baseline2,Baseline,3.283,Petra Cort 11.06.21
+1,m,6142,DG-2,W,2,60,21. Sep 20,09:41,Baseline3,Baseline,4.132,Petra_Cort_28.04.21
+1,m,6142,DG-2,W,2,60,21. Sep 20,10:11,Separation,Separation,14.343,Petra_Cort_28.04.21
+1,m,6142,DG-2,W,2,60,21. Sep 20,10:31,Reunion,Reunion,7.458,Petra_Cort_28.04.21
+1,m,6197,DG-4,W,1,28,12. Nov 20,08:53,Weaning,Weaning,12.66,Petra_Cort_12.04.21
+1,m,6197,DG-4,W,1,35,19. Nov 20,08:50,Play,Play,7.962,Petra_Cort_12.04.21
+1,m,6197,DG-4,W,1,36,20. Nov 20,08:48,Baseline1,Baseline,17.546,Petra_Cort_12.04.21
+1,m,6197,DG-4,W,1,62,16-Dec-20,08:57,Separation,Separation,39.06,Petra Cort 27.05.21
+1,m,6197,DG-4,W,1,62,16-Dec-20,09:16,Reunion,Reunion,10.067,Petra Cort 27.05.21
+1,m,6197,DG-4,W,1,48,2-Dec-20,08:25,Baseline2,Baseline,7.734,Petra Cort 16.06.21
+1,m,6232,DG-2,F,2,28,20. Aug 20,09:15,Weaning,Weaning,17.656,PM_Cort_19.02.21
+1,m,6232,DG-2,F,2,35,27. Aug 20,09:33,Play,Play,14.461,PM_Cort_19.02.21
+1,m,6232,DG-2,F,2,36,28. Aug 20,09:08,Baseline1,Baseline,14.58,Petra_Cort_07.04.21
+1,m,6271,DG-3,F,1,64,06. Nov 20,08:26,Baseline3,Baseline,4.648,Petra Cort 14.05.21
+1,m,6271,DG-3,F,1,64,06. Nov 20,08:53,Separation,Separation,10.091,Petra Cort 14.05.21
+1,m,6271,DG-3,F,1,64,06. Nov 20,09:12,Reunion,Reunion,5.492,Petra Cort 14.05.21
+1,m,6271,DG-3,F,1,50,23-Oct-20,08:25,Baseline2,Baseline,3.888,Petra Cort 14.06.21
+1,m,6271,DG-3,F,1,55,28-Oct-20,09:39,Baseline2,Baseline,3.757,Petra Cort 14.06.21
+1,m,6420,DG-5,W,1,28,14. Jan 21,08:53,Weaning,Weaning,26.555,Petra_Cort_16.04.21
+1,m,6420,DG-5,W,1,35,21. Jan 21,08:36,Play,Play,5.637,Petra_Cort_16.04.21
+1,m,6420,DG-5,W,1,36,22. Jan 21,08:43,Baseline1,Baseline,6.278,Petra_Cort_16.04.21
+1,m,6420,DG-5,W,2,50,05. Feb 21,11:08,Baseline2,Baseline,2.415,Petra Cort 22.06.21
+1,m,6420,DG-5,W,2,64,19. Feb 21,09:15,Baseline3,Baseline,1.988,Petra.Cort.01.06.21
+1,m,6420,DG-5,W,2,64,19. Feb 21,09:40,Separation,Separation,10.175,Petra.Cort.01.06.21
+1,m,6420,DG-5,W,2,64,19. Feb 21,10:00,Reunion,Reunion,8.913,Petra.Cort.01.06.21
+1,m,6421,DG-5,F,2,28,14. Jan 21,09:27,Weaning,Weaning,15.554,Petra_Cort_15.04.21
+1,m,6421,DG-5,F,2,35,21. Jan 21,09:49,Play,Play,4.507,Petra_Cort_16.04.21
+1,m,6421,DG-5,F,2,36,22. Jan 21,09:32,Baseline1,Baseline,7.708,Petra_Cort_15.04.21
+1,m,6421,DG-5,F,1,48,03. Feb 21,08:30,Baseline2,Baseline,3.31,Petra Cort 21.06.21
+1,m,6421,DG-5,F,1,50,05. Feb 21,08:25,Baseline2,Baseline,2.709,Petra Cort 21.06.21
+1,m,6421,DG-5,F,1,53,08. Feb 21,08:15,Baseline2,Baseline,4.191,Petra Cort 21.06.21
+1,m,6421,DG-5,F,1,62,17. Feb 21,08:27,Baseline3,Baseline,2.409,Petra.Cort.01.06.21
+1,m,6421,DG-5,F,1,62,17. Feb 21,08:53,Separation,Separation,4.732,Petra.Cort.01.06.21
+1,m,6421,DG-5,F,1,62,17. Feb 21,09:12,Reunion,Reunion,5.869,Petra.Cort.01.06.21
+2,m,6079,DG-3,W,2,60,02. Nov 20,09:20,Baseline3,Baseline,6.489,Petra Cort 11.05.21
+2,m,6079,DG-3,W,2,60,02. Nov 20,09:45,Separation,Separation,17.189,Petra Cort 11.05.21
+2,m,6079,DG-3,W,2,60,02. Nov 20,10:03,Reunion,Reunion,12.528,Petra Cort 11.05.21
+2,m,6079,DG-3,W,2,46,19-Oct-20,11:40,Baseline2,Baseline,2.091,Petra Cort 11.06.21
+2,m,6079,DG-3,W,1,28,1-Oct-20,08:47,Weaning,Weaning,18.672,Petra_Cort_12.04.21
+2,m,6079,DG-3,W,1,35,8-Oct-20,08:47,Play,Play,9.659,Petra_Cort_07.04.21
+2,m,6079,DG-3,W,1,36,9-Oct-20,08:41,Baseline1,Baseline,11.837,Petra_Cort_07.04.21
+2,m,6099,DG-4,F,2,36,20. Nov 20,09:36,Baseline1,Baseline,9.561,Petra_Cort_15.04.21
+2,m,6099,DG-4,F,2,64,18-Dec-20,11:06,Baseline3,Baseline,4.6,Petra Cort 27.05.21
+2,m,6099,DG-4,F,2,64,18-Dec-20,11:32,Separation,Separation,6.947,Petra Cort 27.05.21
+2,m,6099,DG-4,F,2,64,18-Dec-20,11:51,Reunion,Reunion,12.854,Petra Cort 27.05.21
+2,m,6099,DG-4,F,1,50,4-Dec-20,08:20,Baseline2,Baseline,3.985,Petra Cort 12.07.21
+2,m,6099,DG-4,F,2,50,4-Dec-20,11:35,Baseline2,Baseline,5.721,Petra Cort 15.06.21
+2,f,6142,DG-2,W,1,28,20. Aug 20,08:44,Weaning,Weaning,10.343,PM_Cort_19.02.21
+2,f,6142,DG-2,W,1,35,27. Aug 20,08:40,Play,Play,15.157,PM_Cort_19.02.21
+2,f,6142,DG-2,W,1,36,28. Aug 20,08:39,Baseline1,Baseline,10.786,Petra_Cort_07.04.21
+2,f,6142,DG-2,W,2,48,09. Sep 20,11:02,Baseline2,Baseline,4.995,Petra Cort 11.06.21
+2,f,6142,DG-2,W,2,63,24. Sep 20,09:21,Baseline3,Baseline,11.219,Petra_Cort_29.04.21
+2,f,6142,DG-2,W,2,63,24. Sep 20,09:50,Separation,Separation,12.337,Petra_Cort_29.04.21
+2,f,6142,DG-2,W,2,63,24. Sep 20,10:09,Reunion,Reunion,10.89,Petra_Cort_29.04.21
+2,m,6197,DG-4,W,1,28,12. Nov 20,08:46,Weaning,Weaning,18.053,Petra_Cort_12.04.21
+2,m,6197,DG-4,W,2,62,16-Dec-20,11:32,Baseline3,Baseline,9.648,Petra Cort 27.05.21
+2,m,6197,DG-4,W,2,62,16-Dec-20,11:57,Separation,Separation,29.207,Petra Cort 27.05.21
+2,m,6197,DG-4,W,2,62,16-Dec-20,12:18,Reunion,Reunion,10.883,Petra Cort 27.05.21
+2,m,6197,DG-4,W,2,49,3-Dec-20,10:50,Baseline2,Baseline,6.187,Petra Cort 16.06.21
+2,m,6197,DG-4,W,1,53,7-Dec-20,09:02,Baseline2,Baseline,8.598,Petra Cort 12.07.21
+2,f,6232,DG-2,F,1,46,07. Sep 20,08:40,Baseline2,Baseline,3.594,Petra Cort 03.06.21
+2,f,6232,DG-2,F,2,47,08. Sep 20,11:01,Baseline2,Baseline,4.204,Petra Cort 03.06.21
+2,f,6232,DG-2,F,1,48,09. Sep 20,08:36,Baseline2,Baseline,6.43,Petra Cort 09.06.21
+2,f,6232,DG-2,F,2,62,23. Sep 20,09:15,Baseline3,Baseline,4.636,Petra_Cort_29.04.21
+2,f,6232,DG-2,F,2,62,23. Sep 20,09:45,Separation,Separation,36.277,Petra_Cort_29.04.21
+2,f,6232,DG-2,F,2,62,23. Sep 20,10:08,Reunion,Reunion,15.555,Petra_Cort_29.04.21
+2,m,6271,DG-3,F,2,62,04. Nov 20,09:58,Baseline3,Baseline,3.266,Petra Cort 11.05.21
+2,m,6271,DG-3,F,2,62,04. Nov 20,10:23,Separation,Separation,13.475,Petra Cort 11.05.21
+2,m,6271,DG-3,F,2,62,04. Nov 20,10:44,Reunion,Reunion,14.866,Petra Cort 11.05.21
+2,m,6271,DG-3,F,2,28,1-Oct-20,09:06,Weaning,Weaning,17.845,Petra_Cort_07.04.21
+2,m,6271,DG-3,F,1,47,20-Oct-20,08:20,Baseline2,Baseline,3.655,Petra Cort 11.06.21
+2,m,6271,DG-3,F,1,48,21-Oct-20,08:25,Baseline2,Baseline,3.222,Petra Cort 14.06.21
+2,m,6271,DG-3,F,2,35,8-Oct-20,09:46,Play,Play,9.958,Petra_Cort_07.04.21
+2,m,6420,DG-5,W,1,28,14. Jan 21,08:42,Weaning,Weaning,7.18,Petra_Cort_16.04.21
+2,m,6420,DG-5,W,1,35,21. Jan 21,08:51,Play,Play,12.738,Petra_Cort_28.04.21
+2,m,6420,DG-5,W,1,36,22. Jan 21,08:34,Baseline1,Baseline,7.157,Petra_Cort_28.04.21
+2,m,6420,DG-5,W,2,48,03. Feb 21,11:42,Baseline2,Baseline,12.421,Petra Cort 22.06.21
+2,m,6420,DG-5,W,2,62,17. Feb 21,10:43,Baseline3,Baseline,2.008,Petra.Cort.01.06.21
+2,m,6420,DG-5,W,2,62,17. Feb 21,11:14,Separation,Separation,9.41,Petra.Cort.01.06.21
+2,m,6420,DG-5,W,2,62,17. Feb 21,11:32,Reunion,Reunion,6.955,Petra.Cort.01.06.21
+2,m,6421,DG-5,F,2,28,14. Jan 21,09:27,Weaning,Weaning,21.295,Petra_Cort_15.04.21
+2,m,6421,DG-5,F,2,35,21. Jan 21,09:35,Play,Play,6.557,Petra_Cort_28.04.21
+2,m,6421,DG-5,F,2,36,22. Jan 21,09:32,Baseline1,Baseline,6.056,Petra_Cort_15.04.21
+2,m,6421,DG-5,F,1,48,03. Feb 21,08:30,Baseline2,Baseline,2.518,Petra Cort 12.07.21
+2,m,6421,DG-5,F,2,62,17. Feb 21,09:57,Baseline3,Baseline,5.265,Petra.Cort.01.06.21
+2,m,6421,DG-5,F,2,62,17. Feb 21,10:23,Separation,Separation,8.158,Petra.Cort.01.06.21
+2,m,6421,DG-5,F,2,62,17. Feb 21,10:43,Reunion,Reunion,12.12,Petra.Cort.01.06.21
+3,f,6079,DG-3,W,2,64,06. Nov 20,09:12,Baseline3,Baseline,5.422,Petra Cort 11.05.21
+3,f,6079,DG-3,W,2,64,06. Nov 20,09:38,Separation,Separation,21.641,Petra Cort 11.05.21
+3,f,6079,DG-3,W,2,64,06. Nov 20,10:00,Reunion,Reunion,16.223,Petra Cort 11.05.21
+3,f,6079,DG-3,W,1,28,1-Oct-20,08:53,Weaning,Weaning,20.747,Petra_Cort_07.04.21
+3,f,6079,DG-3,W,2,50,23-Oct-20,10:40,Baseline2,Baseline,4.307,Petra Cort 14.06.21
+3,m,6099,DG-4,F,2,28,12. Nov 20,09:27,Weaning,Weaning,18.365,Petra_Cort_15.04.21
+3,m,6099,DG-4,F,2,36,20. Nov 20,09:42,Baseline1,Baseline,6.067,Petra_Cort_15.04.21
+3,m,6099,DG-4,F,2,46,30. Nov 20,11:55,Baseline2,Baseline,3.628,Petra Cort 15.06.21
+3,m,6099,DG-4,F,2,60,14-Dec-20,09:38,Baseline3,Baseline,4.368,Petra Cort 14.05.21
+3,m,6099,DG-4,F,2,60,14-Dec-20,10:02,Separation,Separation,8.051,Petra Cort 14.05.21
+3,m,6099,DG-4,F,2,60,14-Dec-20,10:21,Reunion,Reunion,8.211,Petra Cort 14.05.21
+3,m,6099,DG-4,F,1,50,4-Dec-20,08:20,Baseline2,Baseline,3.35,Petra Cort 15.06.21
+3,f,6142,DG-2,W,1,28,20. Aug 20,08:44,Weaning,Weaning,7.602,PM_Cort_19.02.21
+3,f,6142,DG-2,W,2,48,09. Sep 20,11:03,Baseline2,Baseline,4.169,Petra Cort 11.06.21
+3,f,6142,DG-2,W,2,61,22. Sep 20,10:52,Baseline3,Baseline,6.302,Petra_Cort_29.04.21
+3,f,6142,DG-2,W,2,61,22. Sep 20,11:19,Separation,Separation,12.323,Petra_Cort_29.04.21
+3,f,6142,DG-2,W,2,61,22. Sep 20,11:41,Reunion,Reunion,9.386,Petra_Cort_29.04.21
+3,f,6142,DG-2,W,1,49,9-Oct-20,08:27,Baseline2,Baseline,5.751,Petra Cort 09.06.21
+3,m,6197,DG-4,W,1,28,12. Nov 20,09:00,Weaning,Weaning,21.947,Petra_Cort_12.04.21
+3,m,6197,DG-4,W,2,64,18-Dec-20,08:49,Baseline3,Baseline,11.457,Petra Cort 27.05.21
+3,m,6197,DG-4,W,2,64,18-Dec-20,09:15,Separation,Separation,9.835,Petra Cort 27.05.21
+3,m,6197,DG-4,W,2,64,18-Dec-20,09:36,Reunion,Reunion,11.937,Petra Cort 27.05.21
+3,m,6197,DG-4,W,1,50,4-Dec-20,08:15,Baseline2,Baseline,4.152,Petra Cort 12.07.21
+3,f,6232,DG-2,F,2,35,27. Aug 20,09:51,Play,Play,10.67,PM_Cort_19.02.21
+3,f,6232,DG-2,F,2,36,28. Aug 20,09:17,Baseline1,Baseline,5.955,Petra_Cort_07.04.21
+3,f,6232,DG-2,F,1,46,07. Sep 20,08:40,Baseline2,Baseline,7.6,Petra Cort 03.06.21
+3,f,6232,DG-2,F,1,60,21. Sep 20,08:44,Baseline3,Baseline,8.067,Petra_Cort_29.04.21
+3,f,6232,DG-2,F,1,60,21. Sep 20,09:18,Separation,Separation,8.878,Petra_Cort_29.04.21
+3,f,6232,DG-2,F,1,60,21. Sep 20,09:41,Reunion,Reunion,7.571,Petra_Cort_29.04.21
+3,f,6232,DG-2,F,2,49,9-Oct-20,10:33,Baseline2,Baseline,3.564,Petra Cort 03.06.21
+3,f,6271,DG-3,F,2,64,06. Nov 20,10:00,Baseline3,Baseline,4.627,Petra Cort 14.05.21
+3,f,6271,DG-3,F,2,64,06. Nov 20,10:26,Separation,Separation,4.829,Petra Cort 14.05.21
+3,f,6271,DG-3,F,2,64,06. Nov 20,10:45,Reunion,Reunion,3.078,Petra Cort 14.05.21
+3,f,6271,DG-3,F,2,28,1-Oct-20,09:14,Weaning,Weaning,6.995,Petra_Cort_12.04.21
+3,f,6271,DG-3,F,1,48,21-Oct-20,08:20,Baseline2,Baseline,2.929,Petra Cort 14.06.21
+3,f,6271,DG-3,F,1,49,22-Oct-20,08:20,Baseline2,Baseline,4.46,Petra Cort 14.06.21
+3,f,6271,DG-3,F,1,50,23-Oct-20,08:25,Baseline2,Baseline,3.497,Petra Cort 14.06.21
+3,f,6271,DG-3,F,1,55,28-Oct-20,09:39,Baseline2,Baseline,2.956,Petra Cort 14.06.21
+3,f,6271,DG-3,F,2,35,8-Oct-20,09:36,Play,Play,5.114,Petra_Cort_12.04.21
+3,f,6271,DG-3,F,2,36,9-Oct-20,09:38,Baseline1,Baseline,5.658,Petra_Cort_12.04.21
+3,f,6420,DG-5,W,1,28,14. Jan 21,08:59,Weaning,Weaning,13.829,Petra_Cort_16.04.21
+3,f,6420,DG-5,W,1,35,21. Jan 21,08:35,Play,Play,6.377,Petra_Cort_16.04.21
+3,f,6420,DG-5,W,1,36,22. Jan 21,08:36,Baseline1,Baseline,6.179,Petra_Cort_16.04.21
+3,f,6420,DG-5,W,2,46,01. Feb 21,11:15,Baseline2,Baseline,7.873,Petra Cort 22.06.21
+3,f,6420,DG-5,W,1,50,05. Feb 21,08:25,Baseline2,Baseline,8.277,Petra Cort 22.06.21
+3,f,6420,DG-5,W,2,60,15. Feb 21,09:20,Baseline3,Baseline,2.214,Petra Cort 31.05.21
+3,f,6420,DG-5,W,2,60,15. Feb 21,09:45,Separation,Separation,22.42,Petra Cort 31.05.21
+3,f,6420,DG-5,W,2,60,15. Feb 21,10:03,Reunion,Reunion,6.459,Petra Cort 31.05.21
+3,f,6421,DG-5,F,2,35,21. Jan 21,09:33,Play,Play,18.157,Petra_Cort_16.04.21
+3,f,6421,DG-5,F,2,36,22. Jan 21,09:34,Baseline1,Baseline,4.988,Petra_Cort_16.04.21
+3,f,6421,DG-5,F,2,47,02. Feb 21,10:36,Baseline2,Baseline,2.081,Petra Cort 21.06.21
+3,f,6421,DG-5,F,2,61,16. Feb 21,09:17,Baseline3,Baseline,6.063,Petra Cort 31.05.21
+3,f,6421,DG-5,F,2,61,16. Feb 21,09:40,Separation,Separation,4.428,Petra Cort 31.05.21
+3,f,6421,DG-5,F,2,61,16. Feb 21,10:00,Reunion,Reunion,4.436,Petra Cort 31.05.21
+4,m,5931,DG-2,W,1,28,20. Aug 20,08:46,Weaning,Weaning,9.234,PM_Cort_19.02.21
+4,m,5931,DG-2,W,1,35,27. Aug 20,08:37,Play,Play,5.586,PM_Cort_19.02.21
+4,m,5931,DG-2,W,1,36,28. Aug 20,08:40,Baseline1,Baseline,9.172,Petra_Cort_07.04.21
+4,m,5931,DG-2,W,2,60,21. Sep 20,11:21,Baseline3,Baseline,4.149,Petra_Cort_28.04.21
+4,m,5931,DG-2,W,2,60,21. Sep 20,11:49,Separation,Separation,29.026,Petra_Cort_28.04.21
+4,m,5931,DG-2,W,2,60,21. Sep 20,12:07,Reunion,Reunion,11.467,Petra_Cort_28.04.21
+4,f,6079,DG-3,W,1,61,03. Nov 20,08:21,Baseline3,Baseline,2.458,Petra Cort 14.05.21
+4,f,6079,DG-3,W,1,61,03. Nov 20,08:48,Separation,Separation,6.604,Petra Cort 14.05.21
+4,f,6079,DG-3,W,1,61,03. Nov 20,09:10,Reunion,Reunion,7.368,Petra Cort 14.05.21
+4,f,6079,DG-3,W,1,28,1-Oct-20,08:53,Weaning,Weaning,14.172,Petra_Cort_07.04.21
+4,f,6079,DG-3,W,1,47,20-Oct-20,08:25,Baseline2,Baseline,4.084,Petra Cort 14.06.21
+4,f,6079,DG-3,W,1,49,22-Oct-20,08:20,Baseline2,Baseline,5.023,Petra Cort 14.06.21
+4,f,6079,DG-3,W,1,55,28-Oct-20,09:45,Baseline2,Baseline,2.497,Petra Cort 14.06.21
+4,f,6079,DG-3,W,1,35,8-Oct-20,08:45,Play,Play,7.287,Petra_Cort_07.04.21
+4,f,6099,DG-4,F,2,28,12. Nov 20,09:19,Weaning,Weaning,18.629,Petra_Cort_15.04.21
+4,f,6099,DG-4,F,2,35,19. Nov 20,09:42,Play,Play,3.967,Petra_Cort_15.04.21
+4,f,6099,DG-4,F,2,36,20. Nov 20,09:57,Baseline1,Baseline,4.024,Petra_Cort_15.04.21
+4,f,6099,DG-4,F,1,61,15-Dec-20,08:13,Baseline3,Baseline,3.765,Petra Cort 14.05.21
+4,f,6099,DG-4,F,1,61,15-Dec-20,08:35,Separation,Separation,11.461,Petra Cort 14.05.21
+4,f,6099,DG-4,F,1,61,15-Dec-20,08:55,Reunion,Reunion,11.737,Petra Cort 14.05.21
+4,f,6099,DG-4,F,1,47,1-Dec-20,08:30,Baseline2,Baseline,3.89,Petra Cort 15.06.21
+4,f,6197,DG-4,W,1,28,12. Nov 20,08:48,Weaning,Weaning,8.601,Petra_Cort_12.04.21
+4,f,6197,DG-4,W,1,35,19. Nov 20,08:40,Play,Play,10.236,Petra_Cort_12.04.21
+4,f,6197,DG-4,W,1,36,20. Nov 20,08:36,Baseline1,Baseline,4.979,Petra_Cort_12.04.21
+4,f,6197,DG-4,W,2,61,15-Dec-20,10:38,Baseline3,Baseline,3.426,Petra Cort 27.05.21
+4,f,6197,DG-4,W,2,61,15-Dec-20,11:05,Separation,Separation,16.296,Petra Cort 27.05.21
+4,f,6197,DG-4,W,2,61,15-Dec-20,11:26,Reunion,Reunion,5.419,Petra Cort 27.05.21
+4,f,6197,DG-4,W,1,48,2-Dec-20,08:20,Baseline2,Baseline,3.383,Petra Cort 12.07.21
+4,m,6235,DG-2,F,2,35,27. Aug 20,09:31,Play,Play,13.426,PM_Cort_19.02.21
+4,m,6235,DG-2,F,2,36,28. Aug 20,09:07,Baseline1,Baseline,5.088,Petra_Cort_07.04.21
+4,m,6235,DG-2,F,2,47,08. Sep 20,11:04,Baseline2,Baseline,4.749,Petra Cort 09.06.21
+4,m,6235,DG-2,F,1,48,09. Sep 20,08:28,Baseline2,Baseline,3.831,Petra Cort 09.06.21
+4,m,6235,DG-2,F,2,63,24. Sep 20,10:10,Baseline3,Baseline,6.442,Petra_Cort_29.04.21
+4,m,6235,DG-2,F,2,63,24. Sep 20,10:35,Separation,Separation,12.237,Petra_Cort_29.04.21
+4,m,6235,DG-2,F,2,63,24. Sep 20,10:55,Reunion,Reunion,8.515,Petra_Cort_29.04.21
+4,m,6235,DG-2,F,2,49,9-Oct-20,10:25,Baseline2,Baseline,2.371,Petra Cort 09.06.21
+4,f,6271,DG-3,F,2,63,05. Nov 20,10:44,Baseline3,Baseline,1.815,Petra Cort 11.05.21
+4,f,6271,DG-3,F,2,63,05. Nov 20,11:18,Separation,Separation,5.524,Petra Cort 11.05.21
+4,f,6271,DG-3,F,2,63,05. Nov 20,11:37,Reunion,Reunion,4.491,Petra Cort 11.05.21
+4,f,6271,DG-3,F,2,28,1-Oct-20,09:03,Weaning,Weaning,5.257,Petra_Cort_12.04.21
+4,f,6271,DG-3,F,2,49,22-Oct-20,10:58,Baseline2,Baseline,2.978,Petra Cort 14.06.21
+4,f,6271,DG-3,F,2,35,8-Oct-20,09:41,Play,Play,3.167,Petra_Cort_12.04.21
+4,f,6271,DG-3,F,2,36,9-Oct-20,09:43,Baseline1,Baseline,3.546,Petra_Cort_12.04.21
+4,f,6420,DG-5,W,1,28,14. Jan 21,08:51,Weaning,Weaning,15.873,Petra_Cort_16.04.21
+4,f,6420,DG-5,W,1,35,21. Jan 21,08:41,Play,Play,5.653,Petra_Cort_16.04.21
+4,f,6420,DG-5,W,1,36,22. Jan 21,08:39,Baseline1,Baseline,7.003,Petra_Cort_28.04.21
+4,f,6420,DG-5,W,1,47,02. Feb 21,08:30,Baseline2,Baseline,4.609,Petra Cort 22.06.21
+4,f,6420,DG-5,W,2,61,16. Feb 21,10:00,Baseline3,Baseline,1.202,Petra Cort 31.05.21
+4,f,6420,DG-5,W,2,61,16. Feb 21,10:25,Separation,Separation,4.358,Petra Cort 31.05.21
+4,f,6420,DG-5,W,2,61,16. Feb 21,10:45,Reunion,Reunion,5.108,Petra Cort 31.05.21
+4,f,6421,DG-5,F,2,28,14. Jan 21,09:08,Weaning,Weaning,11.254,Petra_Cort_16.04.21
+4,f,6421,DG-5,F,2,35,21. Jan 21,09:36,Play,Play,8.301,Petra_Cort_28.04.21
+4,f,6421,DG-5,F,2,36,22. Jan 21,09:45,Baseline1,Baseline,6.758,Petra_Cort_16.04.21
+4,f,6421,DG-5,F,2,47,02. Feb 21,10:36,Baseline2,Baseline,4.31,Petra Cort 21.06.21
+4,f,6421,DG-5,F,2,61,16. Feb 21,10:45,Baseline3,Baseline,2.69,Petra Cort 31.05.21
+4,f,6421,DG-5,F,2,61,16. Feb 21,11:10,Separation,Separation,6.774,Petra Cort 31.05.21
+4,f,6421,DG-5,F,2,61,16. Feb 21,11:28,Reunion,Reunion,10.71,Petra Cort 31.05.21
+5,m,5931,DG-2,W,1,28,20. Aug 20,08:40,Weaning,Weaning,17.104,PM_Cort_19.02.21
+5,m,5931,DG-2,W,1,36,28. Aug 20,08:36,Baseline1,Baseline,8.67,Petra_Cort_07.04.21
+5,m,5931,DG-2,W,1,47,08. Sep 20,08:17,Baseline2,Baseline,6.169,Petra Cort 11.06.21
+5,m,5931,DG-2,W,2,62,23. Sep 20,10:07,Baseline3,Baseline,6.957,Petra_Cort_29.04.21
+5,m,5931,DG-2,W,2,62,23. Sep 20,10:40,Separation,Separation,10.009,Petra_Cort_29.04.21
+5,m,5931,DG-2,W,2,62,23. Sep 20,11:00,Reunion,Reunion,8.409,Petra_Cort_29.04.21
+5,f,6079,DG-3,W,2,62,04. Nov 20,10:44,Baseline3,Baseline,8.231,Petra Cort 14.05.21
+5,f,6079,DG-3,W,2,62,04. Nov 20,11:10,Separation,Separation,5.988,Petra Cort 14.05.21
+5,f,6079,DG-3,W,2,62,04. Nov 20,11:29,Reunion,Reunion,7.764,Petra Cort 14.05.21
+5,f,6079,DG-3,W,1,28,1-Oct-20,08:48,Weaning,Weaning,20.887,Petra_Cort_07.04.21
+5,f,6079,DG-3,W,1,50,23-Oct-20,08:20,Baseline2,Baseline,4.449,Petra Cort 15.06.21
+5,f,6079,DG-3,W,1,55,28-Oct-20,09:48,Baseline2,Baseline,13.015,Petra Cort 15.06.21
+5,f,6079,DG-3,W,1,35,8-Oct-20,08:41,Play,Play,13.12,Petra_Cort_07.04.21
+5,f,6079,DG-3,W,1,36,9-Oct-20,08:53,Baseline1,Baseline,12.44,Petra_Cort_07.04.21
+5,f,6099,DG-4,F,2,28,12. Nov 20,09:17,Weaning,Weaning,20.148,Petra_Cort_15.04.21
+5,f,6099,DG-4,F,2,35,19. Nov 20,09:52,Play,Play,6.525,Petra_Cort_16.04.21
+5,f,6099,DG-4,F,2,36,20. Nov 20,09:55,Baseline1,Baseline,15.116,Petra_Cort_15.04.21
+5,f,6099,DG-4,F,2,62,16-Dec-20,10:48,Baseline3,Baseline,6.339,Petra Cort 27.05.21
+5,f,6099,DG-4,F,2,62,16-Dec-20,11:14,Separation,Separation,20.047,Petra Cort 27.05.21
+5,f,6099,DG-4,F,2,62,16-Dec-20,11:32,Reunion,Reunion,10.239,Petra Cort 27.05.21
+5,f,6099,DG-4,F,1,47,1-Dec-20,08:28,Baseline2,Baseline,7.988,Petra Cort 16.06.21
+5,f,6099,DG-4,F,1,48,2-Dec-20,08:25,Baseline2,Baseline,5.714,Petra Cort 16.06.21
+5,f,6099,DG-4,F,1,49,3-Dec-20,08:15,Baseline2,Baseline,2.242,Petra Cort 16.06.21
+5,f,6099,DG-4,F,1,53,7-Dec-20,09:08,Baseline2,Baseline,2.125,Petra Cort 16.06.21
+5,f,6197,DG-4,W,1,28,12. Nov 20,08:56,Weaning,Weaning,22.933,Petra_Cort_15.04.21
+5,f,6197,DG-4,W,1,35,19. Nov 20,08:56,Play,Play,9.295,Petra_Cort_12.04.21
+5,f,6197,DG-4,W,1,36,20. Nov 20,08:46,Baseline1,Baseline,6.866,Petra_Cort_15.04.21
+5,f,6197,DG-4,W,2,60,14-Dec-20,11:58,Baseline3,Baseline,7.653,Petra Cort 27.05.21
+5,f,6197,DG-4,W,2,60,14-Dec-20,12:23,Separation,Separation,17.747,Petra Cort 27.05.21
+5,f,6197,DG-4,W,2,60,14-Dec-20,12:42,Reunion,Reunion,11.512,Petra Cort 31.05.21
+5,f,6197,DG-4,W,2,47,1-Dec-20,10:45,Baseline2,Baseline,3.451,Petra Cort 16.06.21
+5,f,6197,DG-4,W,1,49,3-Dec-20,08:10,Baseline2,Baseline,4.17,Petra Cort 16.06.21
+5,f,6197,DG-4,W,1,50,4-Dec-20,08:15,Baseline2,Baseline,5.253,Petra Cort 16.06.21
+5,f,6197,DG-4,W,1,53,7-Dec-20,09:05,Baseline2,Baseline,8.29,Petra Cort 12.07.21
+5,m,6235,DG-2,F,2,35,27. Aug 20,09:33,Play,Play,2.598,PM_Cort_19.02.21
+5,m,6235,DG-2,F,2,36,28. Aug 20,09:14,Baseline1,Baseline,4.251,Petra_Cort_12.04.21
+5,m,6235,DG-2,F,1,48,09. Sep 20,08:40,Baseline2,Baseline,2.954,Petra Cort 09.06.21
+5,m,6235,DG-2,F,1,61,22. Sep 20,10:04,Baseline3,Baseline,2.322,Petra_Cort_29.04.21
+5,m,6235,DG-2,F,1,61,22. Sep 20,10:32,Separation,Separation,9.674,Petra_Cort_29.04.21
+5,m,6235,DG-2,F,1,61,22. Sep 20,10:52,Reunion,Reunion,7.9,Petra_Cort_29.04.21
+5,m,6235,DG-2,F,2,49,9-Oct-20,10:29,Baseline2,Baseline,3.723,Petra Cort 11.06.21
+5,f,6271,DG-3,F,2,61,03. Nov 20,10:55,Baseline3,Baseline,8.193,Petra Cort 11.05.21
+5,f,6271,DG-3,F,2,61,03. Nov 20,11:18,Separation,Separation,15.388,Petra Cort 11.05.21
+5,f,6271,DG-3,F,2,61,03. Nov 20,11:35,Reunion,Reunion,9.695,Petra Cort 11.05.21
+5,f,6271,DG-3,F,2,28,1-Oct-20,09:18,Weaning,Weaning,11.06,Petra_Cort_12.04.21
+5,f,6271,DG-3,F,2,47,20-Oct-20,11:15,Baseline2,Baseline,4.308,Petra Cort 14.06.21
+5,f,6271,DG-3,F,2,35,8-Oct-20,09:50,Play,Play,3.331,Petra_Cort_12.04.21
+5,f,6420,DG-5,W,1,28,14. Jan 21,08:39,Weaning,Weaning,33.049,Petra_Cort_16.04.21
+5,f,6420,DG-5,W,1,35,21. Jan 21,08:39,Play,Play,11.204,Petra_Cort_28.04.21
+5,f,6420,DG-5,W,1,36,22. Jan 21,08:49,Baseline1,Baseline,11.309,Petra_Cort_16.04.21
+5,f,6420,DG-5,W,2,50,05. Feb 21,11:08,Baseline2,Baseline,2.006,Petra Cort 22.06.21
+5,f,6420,DG-5,W,2,64,19. Feb 21,10:49,Baseline3,Baseline,5.551,Petra.Cort.01.06.21
+5,f,6420,DG-5,W,2,64,19. Feb 21,11:15,Separation,Separation,5.031,Petra Cort 03.06.21
+5,f,6420,DG-5,W,2,64,19. Feb 21,11:34,Reunion,Reunion,3.734,Petra Cort 03.06.21
+5,f,6421,DG-5,F,2,28,14. Jan 21,09:11,Weaning,Weaning,34.804,Petra_Cort_16.04.21
+5,f,6421,DG-5,F,2,36,22. Jan 21,09:35,Baseline1,Baseline,7.501,Petra_Cort_16.04.21
+5,f,6421,DG-5,F,2,49,04. Feb 21,10:25,Baseline2,Baseline,6.744,Petra Cort 21.06.21
+5,f,6421,DG-5,F,2,63,18. Feb 21,10:44,Baseline3,Baseline,5.144,Petra.Cort.01.06.21
+5,f,6421,DG-5,F,2,63,18. Feb 21,11:09,Separation,Separation,13.85,Petra.Cort.01.06.21
+5,f,6421,DG-5,F,2,63,18. Feb 21,11:27,Reunion,Reunion,7.708,Petra.Cort.01.06.21
+6,f,5931,DG-2,W,1,28,20. Aug 20,08:36,Weaning,Weaning,14.156,PM_Cort_19.02.21
+6,f,5931,DG-2,W,1,35,27. Aug 20,08:48,Play,Play,10.46,PM_Cort_19.02.21
+6,m,6073,DG-3,W,2,64,06. Nov 20,10:45,Baseline3,Baseline,1.069,Petra Cort 14.05.21
+6,m,6073,DG-3,W,2,64,06. Nov 20,11:15,Separation,Separation,4.329,Petra Cort 14.05.21
+6,m,6073,DG-3,W,2,64,06. Nov 20,11:30,Reunion,Reunion,2.418,Petra Cort 14.05.21
+6,m,6073,DG-3,W,1,28,1-Oct-20,08:38,Weaning,Weaning,6.377,Petra_Cort_07.04.21
+6,m,6073,DG-3,W,1,48,21-Oct-20,08:20,Baseline2,Baseline,1.773,Petra Cort 15.06.21
+6,m,6073,DG-3,W,2,50,23-Oct-20,10:40,Baseline2,Baseline,2.569,Petra Cort 15.06.21
+6,m,6073,DG-3,W,1,35,8-Oct-20,08:40,Play,Play,12.801,Petra_Cort_07.04.21
+6,m,6073,DG-3,W,1,36,9-Oct-20,08:38,Baseline1,Baseline,3.074,Petra_Cort_12.04.21
+6,m,6188,DG-4,F,2,28,12. Nov 20,09:13,Weaning,Weaning,31.382,Petra_Cort_15.04.21
+6,m,6188,DG-4,F,2,35,19. Nov 20,10:05,Play,Play,5.049,Petra_Cort_15.04.21
+6,m,6188,DG-4,F,2,36,20. Nov 20,09:53,Baseline1,Baseline,9.775,Petra_Cort_15.04.21
+6,m,6188,DG-4,F,2,61,15-Dec-20,09:47,Baseline3,Baseline,6.944,Petra Cort 27.05.21
+6,m,6188,DG-4,F,2,61,15-Dec-20,10:15,Separation,Separation,15.49,Petra Cort 27.05.21
+6,m,6188,DG-4,F,2,61,15-Dec-20,10:38,Reunion,Reunion,11.412,Petra Cort 27.05.21
+6,m,6188,DG-4,F,1,47,1-Dec-20,08:30,Baseline2,Baseline,12.015,Petra Cort 15.06.21
+6,f,6235,DG-2,F,2,28,20. Aug 20,09:03,Weaning,Weaning,9.242,Petra_Cort_12.04.21
+6,f,6235,DG-2,F,2,36,28. Aug 20,09:11,Baseline1,Baseline,6.499,Petra_Cort_12.04.21
+6,f,6235,DG-2,F,1,46,07. Sep 20,08:40,Baseline2,Baseline,2.902,Petra Cort 03.06.21
+6,f,6235,DG-2,F,2,47,08. Sep 20,11:12,Baseline2,Baseline,7.071,Petra Cort 03.06.21
+6,f,6235,DG-2,F,2,60,21. Sep 20,10:32,Baseline3,Baseline,5.805,Petra_Cort_29.04.21
+6,f,6235,DG-2,F,2,60,21. Sep 20,10:58,Separation,Separation,33.204,Petra_Cort_29.04.21
+6,f,6235,DG-2,F,2,60,21. Sep 20,11:20,Reunion,Reunion,15.386,Petra_Cort_29.04.21
+6,m,6235,DG-5,W,1,28,14. Jan 21,08:58,Weaning,Weaning,17.796,Petra_Cort_16.04.21
+6,m,6235,DG-5,W,1,35,21. Jan 21,08:39,Play,Play,10.883,Petra_Cort_28.04.21
+6,m,6235,DG-5,W,1,36,22. Jan 21,08:49,Baseline1,Baseline,5.167,Petra_Cort_16.04.21
+6,m,6235,DG-5,W,1,47,02. Feb 21,08:30,Baseline2,Baseline,5.351,Petra Cort 22.06.21
+6,m,6235,DG-5,W,1,49,04. Feb 21,08:28,Baseline2,Baseline,1.659,Petra Cort 12.07.21
+6,m,6235,DG-5,W,1,53,08. Feb 21,08:10,Baseline2,Baseline,3.098,Petra Cort 22.06.21
+6,m,6235,DG-5,W,1,61,16. Feb 21,08:30,Baseline3,Baseline,4.483,Petra Cort 31.05.21
+6,m,6235,DG-5,W,1,61,16. Feb 21,08:55,Separation,Separation,8.001,Petra Cort 31.05.21
+6,m,6235,DG-5,W,1,61,16. Feb 21,09:17,Reunion,Reunion,8.202,Petra Cort 31.05.21
+6,m,6310,DG-4,W,1,28,12. Nov 20,08:48,Weaning,Weaning,22.073,Petra_Cort_12.04.21
+6,m,6310,DG-4,W,1,35,19. Nov 20,08:55,Play,Play,11.732,Petra_Cort_12.04.21
+6,m,6310,DG-4,W,1,36,20. Nov 20,08:40,Baseline1,Baseline,9.971,Petra_Cort_12.04.21
+6,m,6310,DG-4,W,1,46,30. Nov 20,09:36,Baseline2,Baseline,4.726,Petra Cort 16.06.21
+6,m,6310,DG-4,W,2,60,14-Dec-20,10:21,Baseline3,Baseline,6.078,Petra Cort 31.05.21
+6,m,6310,DG-4,W,2,60,14-Dec-20,10:45,Separation,Separation,13.374,Petra Cort 03.06.21
+6,m,6310,DG-4,W,2,60,14-Dec-20,11:10,Reunion,Reunion,5.611,Petra Cort 31.05.21
+6,m,6369,DG-3,F,2,61,03. Nov 20,09:10,Baseline3,Baseline,8.228,Petra Cort 11.05.21
+6,m,6369,DG-3,F,2,61,03. Nov 20,09:35,Separation,Separation,16.939,Petra Cort 11.05.21
+6,m,6369,DG-3,F,2,61,03. Nov 20,10:05,Reunion,Reunion,8.039,Petra Cort 11.05.21
+6,m,6369,DG-3,F,2,47,20-Oct-20,11:15,Baseline2,Baseline,4.137,Petra Cort 14.06.21
+6,m,6369,DG-3,F,1,50,23-Oct-20,08:25,Baseline2,Baseline,4.646,Petra Cort 14.06.21
+6,m,6369,DG-3,F,2,35,8-Oct-20,09:56,Play,Play,5.205,Petra_Cort_12.04.21
+6,m,6369,DG-3,F,2,36,9-Oct-20,09:39,Baseline1,Baseline,7.852,Petra_Cort_12.04.21
+6,m,6407,DG-5,F,2,28,14. Jan 21,09:14,Weaning,Weaning,14.842,Petra_Cort_16.04.21
+6,m,6407,DG-5,F,2,35,21. Jan 21,09:38,Play,Play,4.565,Petra_Cort_16.04.21
+6,m,6407,DG-5,F,2,36,22. Jan 21,09:38,Baseline1,Baseline,6.618,Petra_Cort_16.04.21
+6,m,6407,DG-5,F,1,50,05. Feb 21,08:30,Baseline2,Baseline,6.592,Petra Cort 21.06.21
+6,m,6407,DG-5,F,2,64,19. Feb 21,10:00,Baseline3,Baseline,6.612,Petra.Cort.01.06.21
+6,m,6407,DG-5,F,2,64,19. Feb 21,10:29,Separation,Separation,14.486,Petra.Cort.01.06.21
+6,m,6407,DG-5,F,2,64,19. Feb 21,10:49,Reunion,Reunion,9.44,Petra.Cort.01.06.21
+7,m,5764,DG-2,W,1,35,27. Aug 20,08:46,Play,Play,16.427,PM_Cort_19.02.21
+7,m,5764,DG-2,W,1,36,28. Aug 20,08:46,Baseline1,Baseline,5.776,Petra_Cort_12.04.21
+7,m,5952,DG-2,F,2,28,20. Aug 20,09:25,Weaning,Weaning,14.889,PM_Cort_19.02.21
+7,m,5952,DG-2,F,2,35,27. Aug 20,09:53,Play,Play,5.52,PM_Cort_19.02.21
+7,m,5952,DG-2,F,2,36,28. Aug 20,09:13,Baseline1,Baseline,6.956,Petra_Cort_07.04.21
+7,m,5952,DG-2,F,2,47,08. Sep 20,11:13,Baseline2,Baseline,6.781,Petra Cort 09.06.21
+7,m,5952,DG-2,F,2,62,23. Sep 20,11:03,Baseline3,Baseline,1.397,Petra_Cort_29.04.21
+7,m,5952,DG-2,F,2,62,23. Sep 20,11:30,Separation,Separation,9.479,Petra_Cort_29.04.21
+7,m,5952,DG-2,F,2,62,23. Sep 20,11:51,Reunion,Reunion,10.057,Petra_Cort_29.04.21
+7,m,6073,DG-3,W,2,60,02. Nov 20,10:48,Baseline3,Baseline,6.454,Petra Cort 14.05.21
+7,m,6073,DG-3,W,2,60,02. Nov 20,11:10,Separation,Separation,11.82,Petra Cort 14.05.21
+7,m,6073,DG-3,W,2,60,02. Nov 20,11:31,Reunion,Reunion,10.969,Petra Cort 14.05.21
+7,m,6073,DG-3,W,2,46,19-Oct-20,11:40,Baseline2,Baseline,5.253,Petra Cort 11.06.21
+7,m,6073,DG-3,W,1,49,22-Oct-20,08:20,Baseline2,Baseline,6.459,Petra Cort 15.06.21
+7,m,6073,DG-3,W,1,50,23-Oct-20,08:20,Baseline2,Baseline,2.433,Petra Cort 15.06.21
+7,m,6188,DG-4,F,2,28,12. Nov 20,09:16,Weaning,Weaning,12.968,Petra_Cort_15.04.21
+7,m,6188,DG-4,F,2,35,19. Nov 20,09:57,Play,Play,12.804,Petra_Cort_15.04.21
+7,m,6188,DG-4,F,2,61,15-Dec-20,11:26,Baseline3,Baseline,5.105,Petra Cort 27.05.21
+7,m,6188,DG-4,F,2,61,15-Dec-20,11:56,Separation,Separation,12.021,Petra Cort 27.05.21
+7,m,6188,DG-4,F,2,61,15-Dec-20,12:11,Reunion,Reunion,6.792,Petra Cort 27.05.21
+7,m,6188,DG-4,F,2,48,2-Dec-20,11:43,Baseline2,Baseline,4.208,Petra Cort 15.06.21
+7,m,6188,DG-4,F,1,50,4-Dec-20,08:20,Baseline2,Baseline,6.47,Petra Cort 16.06.21
+7,m,6188,DG-4,F,1,53,7-Dec-20,09:10,Baseline2,Baseline,4.597,Petra Cort 16.06.21
+7,m,6235,DG-5,W,1,35,21. Jan 21,08:48,Play,Play,9.112,Petra_Cort_28.04.21
+7,m,6235,DG-5,W,1,36,22. Jan 21,08:43,Baseline1,Baseline,8.493,Petra_Cort_28.04.21
+7,m,6235,DG-5,W,2,48,03. Feb 21,11:42,Baseline2,Baseline,5.812,Petra Cort 22.06.21
+7,m,6235,DG-5,W,1,50,05. Feb 21,08:25,Baseline2,Baseline,3.849,Petra Cort 22.06.21
+7,m,6235,DG-5,W,1,53,08. Feb 21,08:10,Baseline2,Baseline,7.946,Petra Cort 22.06.21
+7,m,6235,DG-5,W,2,62,17. Feb 21,09:12,Baseline3,Baseline,6.727,Petra.Cort.01.06.21
+7,m,6235,DG-5,W,2,62,17. Feb 21,09:38,Separation,Separation,13.116,Petra.Cort.01.06.21
+7,m,6235,DG-5,W,2,62,17. Feb 21,09:57,Reunion,Reunion,8.746,Petra.Cort.01.06.21
+7,m,6310,DG-4,W,1,35,19. Nov 20,08:34,Play,Play,9.473,Petra_Cort_12.04.21
+7,m,6310,DG-4,W,2,62,16-Dec-20,10:03,Baseline3,Baseline,4.21,Petra Cort 31.05.21
+7,m,6310,DG-4,W,2,62,16-Dec-20,10:29,Separation,Separation,8.197,Petra Cort 31.05.21
+7,m,6310,DG-4,W,2,62,16-Dec-20,10:48,Reunion,Reunion,6.229,Petra Cort 31.05.21
+7,m,6310,DG-4,W,2,49,3-Dec-20,10:50,Baseline2,Baseline,4.731,Petra Cort 16.06.21
+7,m,6369,DG-3,F,1,62,04. Nov 20,08:25,Baseline3,Baseline,5.597,Petra Cort 11.05.21
+7,m,6369,DG-3,F,1,62,04. Nov 20,08:54,Separation,Separation,8.914,Petra Cort 11.05.21
+7,m,6369,DG-3,F,1,62,04. Nov 20,09:12,Reunion,Reunion,10.805,Petra Cort 11.05.21
+7,m,6369,DG-3,F,2,28,1-Oct-20,09:04,Weaning,Weaning,11.512,Petra_Cort_07.04.21
+7,m,6369,DG-3,F,1,48,21-Oct-20,08:25,Baseline2,Baseline,1.465,Petra Cort 14.06.21
+7,m,6369,DG-3,F,1,50,23-Oct-20,08:25,Baseline2,Baseline,4.182,Petra Cort 14.06.21
+7,m,6369,DG-3,F,2,36,9-Oct-20,09:48,Baseline1,Baseline,8.14,Petra_Cort_28.04.21
+7,m,6407,DG-5,F,2,28,14. Jan 21,09:25,Weaning,Weaning,20.457,Petra_Cort_16.04.21
+7,m,6407,DG-5,F,2,35,21. Jan 21,09:43,Play,Play,8.898,Petra_Cort_16.04.21
+7,m,6407,DG-5,F,2,36,22. Jan 21,09:47,Baseline1,Baseline,11.88,Petra_Cort_16.04.21
+7,m,6407,DG-5,F,1,47,02. Feb 21,08:40,Baseline2,Baseline,6.742,Petra Cort 21.06.21
+7,m,6407,DG-5,F,1,50,05. Feb 21,08:30,Baseline2,Baseline,7.096,Petra Cort 21.06.21
+7,m,6407,DG-5,F,1,64,19. Feb 21,08:27,Baseline3,Baseline,15.49,Petra.Cort.01.06.21
+7,m,6407,DG-5,F,1,64,19. Feb 21,08:56,Separation,Separation,12.699,Petra.Cort.01.06.21
+7,m,6407,DG-5,F,1,64,19. Feb 21,09:15,Reunion,Reunion,9.732,Petra Cort 03.06.21
+8,f,5764,DG-2,W,1,28,20. Aug 20,08:35,Weaning,Weaning,8.923,PM_Cort_19.02.21
+8,f,5764,DG-2,W,1,35,27. Aug 20,08:41,Play,Play,10.644,PM_Cort_19.02.21
+8,f,5764,DG-2,W,1,36,28. Aug 20,08:43,Baseline1,Baseline,7.433,Petra_Cort_07.04.21
+8,f,5764,DG-2,W,1,47,08. Sep 20,08:16,Baseline2,Baseline,4.242,Petra Cort 11.06.21
+8,f,5764,DG-2,W,2,48,09. Sep 20,11:00,Baseline2,Baseline,3.401,Petra Cort 11.06.21
+8,f,5764,DG-2,W,2,63,24. Sep 20,10:58,Baseline3,Baseline,2.226,Petra Cort 14.05.21
+8,f,5764,DG-2,W,2,63,24. Sep 20,11:24,Separation,Separation,2.798,Petra Cort 14.05.21
+8,f,5764,DG-2,W,2,63,24. Sep 20,11:45,Reunion,Reunion,8.73,Petra Cort 14.05.21
+8,f,5764,DG-2,W,1,49,9-Oct-20,08:27,Baseline2,Baseline,6.877,Petra Cort 11.06.21
+8,m,5952,DG-2,F,2,36,28. Aug 20,09:17,Baseline1,Baseline,5.144,Petra_Cort_07.04.21
+8,m,5952,DG-2,F,2,61,22. Sep 20,11:41,Baseline3,Baseline,6.042,Petra_Cort_29.04.21
+8,m,5952,DG-2,F,2,61,22. Sep 20,12:08,Separation,Separation,9.066,Petra_Cort_29.04.21
+8,m,5952,DG-2,F,2,61,22. Sep 20,12:27,Reunion,Reunion,9.082,Petra_Cort_29.04.21
+8,m,5952,DG-2,F,2,49,9-Oct-20,10:26,Baseline2,Baseline,5.382,Petra Cort 09.06.21
+8,m,6073,DG-3,W,2,63,05. Nov 20,09:58,Baseline3,Baseline,4.118,Petra_Cort_07.04.21
+8,m,6073,DG-3,W,2,63,05. Nov 20,10:22,Separation,Separation,4.467,Petra Cort 14.05.21
+8,m,6073,DG-3,W,2,63,05. Nov 20,10:40,Reunion,Reunion,3.603,Petra Cort 14.05.21
+8,m,6073,DG-3,W,1,28,1-Oct-20,08:43,Weaning,Weaning,9.25,Petra_Cort_07.04.21
+8,m,6073,DG-3,W,1,49,22-Oct-20,08:25,Baseline2,Baseline,3.067,Petra Cort 15.06.21
+8,f,6188,DG-4,F,2,28,12. Nov 20,09:24,Weaning,Weaning,12.519,Petra_Cort_15.04.21
+8,f,6188,DG-4,F,2,35,19. Nov 20,10:03,Play,Play,8.958,Petra_Cort_15.04.21
+8,f,6188,DG-4,F,2,36,20. Nov 20,09:41,Baseline1,Baseline,9.772,Petra_Cort_15.04.21
+8,f,6188,DG-4,F,2,62,16-Dec-20,09:16,Baseline3,Baseline,7.235,Petra Cort 27.05.21
+8,f,6188,DG-4,F,2,62,16-Dec-20,09:40,Separation,Separation,10.208,Petra Cort 27.05.21
+8,f,6188,DG-4,F,2,62,16-Dec-20,10:03,Reunion,Reunion,7.665,Petra Cort 27.05.21
+8,f,6188,DG-4,F,2,48,2-Dec-20,11:43,Baseline2,Baseline,6.159,Petra Cort 16.06.21
+8,m,6235,DG-5,W,1,28,14. Jan 21,08:57,Weaning,Weaning,19.353,Petra_Cort_16.04.21
+8,m,6235,DG-5,W,1,35,21. Jan 21,08:46,Play,Play,11.003,Petra_Cort_28.04.21
+8,m,6235,DG-5,W,1,36,22. Jan 21,08:39,Baseline1,Baseline,8.649,Petra_Cort_28.04.21
+8,m,6235,DG-5,W,2,46,01. Feb 21,11:15,Baseline2,Baseline,6.143,Petra Cort 22.06.21
+8,m,6235,DG-5,W,2,60,15. Feb 21,10:50,Baseline3,Baseline,21.553,Petra.Cort.01.06.21
+8,m,6235,DG-5,W,2,60,15. Feb 21,11:13,Separation,Separation,6.991,Petra.Cort.01.06.21
+8,m,6235,DG-5,W,2,60,15. Feb 21,11:35,Reunion,Reunion,10.177,Petra.Cort.01.06.21
+8,f,6310,DG-4,W,1,35,19. Nov 20,08:50,Play,Play,5.622,Petra_Cort_12.04.21
+8,f,6310,DG-4,W,1,36,20. Nov 20,08:52,Baseline1,Baseline,9.244,Petra_Cort_12.04.21
+8,f,6310,DG-4,W,2,64,18-Dec-20,10:19,Baseline3,Baseline,6.102,Petra Cort 31.05.21
+8,f,6310,DG-4,W,2,64,18-Dec-20,10:47,Separation,Separation,16.943,Petra Cort 31.05.21
+8,f,6310,DG-4,W,2,64,18-Dec-20,11:06,Reunion,Reunion,5.13,Petra Cort 31.05.21
+8,f,6310,DG-4,W,1,50,4-Dec-20,08:15,Baseline2,Baseline,4.662,Petra Cort 12.07.21
+8,m,6369,DG-3,F,2,63,05. Nov 20,09:12,Baseline3,Baseline,6.935,Petra Cort 11.05.21
+8,m,6369,DG-3,F,2,63,05. Nov 20,09:38,Separation,Separation,14.436,Petra Cort 11.05.21
+8,m,6369,DG-3,F,2,63,05. Nov 20,09:58,Reunion,Reunion,14.156,Petra Cort 11.05.21
+8,m,6369,DG-3,F,2,49,22-Oct-20,10:58,Baseline2,Baseline,3.879,Petra Cort 14.06.21
+8,m,6407,DG-5,F,2,28,14. Jan 21,09:16,Weaning,Weaning,9.529,Petra_Cort_16.04.21
+8,m,6407,DG-5,F,2,35,21. Jan 21,09:46,Play,Play,7.745,Petra_Cort_16.04.21
+8,m,6407,DG-5,F,2,36,22. Jan 21,09:43,Baseline1,Baseline,9.041,Petra_Cort_16.04.21
+8,m,6407,DG-5,F,1,46,01. Feb 21,08:38,Baseline2,Baseline,4.998,Petra Cort 21.06.21
+8,m,6407,DG-5,F,1,60,15. Feb 21,08:35,Baseline3,Baseline,4.644,Petra Cort 31.05.21
+8,m,6407,DG-5,F,1,60,15. Feb 21,08:57,Separation,Separation,5.222,Petra Cort 31.05.21
+8,m,6407,DG-5,F,1,60,15. Feb 21,09:20,Reunion,Reunion,3.261,Petra Cort 31.05.21
+9,f,5764,DG-2,W,1,28,20. Aug 20,08:39,Weaning,Weaning,8.33,PM_Cort_19.02.21
+9,f,5764,DG-2,W,2,48,09. Sep 20,11:06,Baseline2,Baseline,3.856,Petra Cort 11.06.21
+9,f,5764,DG-2,W,1,62,23. Sep 20,08:32,Baseline3,Baseline,4.199,Petra_Cort_29.04.21
+9,f,5764,DG-2,W,1,62,23. Sep 20,08:56,Separation,Separation,6.842,Petra_Cort_29.04.21
+9,f,5764,DG-2,W,1,62,23. Sep 20,09:16,Reunion,Reunion,7.624,Petra Cort 11.05.21
+9,f,5952,DG-2,F,1,46,07. Sep 20,08:40,Baseline2,Baseline,4.801,Petra Cort 03.06.21
+9,f,5952,DG-2,F,1,48,09. Sep 20,08:38,Baseline2,Baseline,3.431,Petra Cort 03.06.21
+9,f,5952,DG-2,F,1,63,24. Sep 20,08:35,Baseline3,Baseline,4.919,Petra Cort 11.05.21
+9,f,5952,DG-2,F,1,63,24. Sep 20,09:00,Separation,Separation,9.32,Petra Cort 11.05.21
+9,f,5952,DG-2,F,1,63,24. Sep 20,09:20,Reunion,Reunion,6.875,Petra Cort 11.05.21
+9,f,6073,DG-3,W,2,62,04. Nov 20,09:12,Baseline3,Baseline,4.239,Petra Cort 14.05.21
+9,f,6073,DG-3,W,2,62,04. Nov 20,09:39,Separation,Separation,4.901,Petra Cort 14.05.21
+9,f,6073,DG-3,W,2,62,04. Nov 20,09:58,Reunion,Reunion,7.275,Petra Cort 14.05.21
+9,f,6073,DG-3,W,1,28,1-Oct-20,08:56,Weaning,Weaning,11.367,Petra_Cort_12.04.21
+9,f,6073,DG-3,W,1,36,9-Oct-20,08:49,Baseline1,Baseline,12.92,Petra_Cort_07.04.21
+9,f,6188,DG-4,F,2,28,12. Nov 20,09:13,Weaning,Weaning,19.089,Petra_Cort_15.04.21
+9,f,6188,DG-4,F,2,35,19. Nov 20,09:47,Play,Play,6.411,Petra_Cort_15.04.21
+9,f,6188,DG-4,F,2,36,20. Nov 20,09:36,Baseline1,Baseline,9.976,Petra_Cort_15.04.21
+9,f,6188,DG-4,F,2,46,30. Nov 20,11:57,Baseline2,Baseline,6.626,Petra Cort 16.06.21
+9,f,6188,DG-4,F,2,60,14-Dec-20,11:10,Baseline3,Baseline,16.547,Petra Cort 27.05.21
+9,f,6188,DG-4,F,2,60,14-Dec-20,11:37,Separation,Separation,13.953,Petra Cort 27.05.21
+9,f,6188,DG-4,F,2,60,14-Dec-20,11:59,Reunion,Reunion,11.902,Petra Cort 27.05.21
+9,f,6235,DG-5,W,1,28,14. Jan 21,08:40,Weaning,Weaning,14.387,Petra_Cort_28.04.21
+9,f,6235,DG-5,W,1,35,21. Jan 21,08:48,Play,Play,10.42,Petra_Cort_28.04.21
+9,f,6235,DG-5,W,1,36,22. Jan 21,08:41,Baseline1,Baseline,4.91,Petra_Cort_28.04.21
+9,f,6235,DG-5,W,1,48,03. Feb 21,08:35,Baseline2,Baseline,4.667,Petra Cort 22.06.21
+9,f,6235,DG-5,W,1,49,04. Feb 21,08:32,Baseline2,Baseline,5.134,Petra Cort 22.06.21
+9,f,6235,DG-5,W,2,63,18. Feb 21,09:59,Baseline3,Baseline,3.097,Petra.Cort.01.06.21
+9,f,6235,DG-5,W,2,63,18. Feb 21,10:25,Separation,Separation,8.843,Petra.Cort.01.06.21
+9,f,6235,DG-5,W,2,63,18. Feb 21,10:44,Reunion,Reunion,7.477,Petra.Cort.01.06.21
+9,f,6310,DG-4,W,1,28,12. Nov 20,08:52,Weaning,Weaning,16.154,Petra_Cort_16.04.21
+9,f,6310,DG-4,W,1,35,19. Nov 20,08:36,Play,Play,11.485,Petra_Cort_15.04.21
+9,f,6310,DG-4,W,2,61,15-Dec-20,08:55,Baseline3,Baseline,7.685,Petra Cort 31.05.21
+9,f,6310,DG-4,W,2,61,15-Dec-20,09:25,Separation,Separation,7.675,Petra Cort 31.05.21
+9,f,6310,DG-4,W,2,61,15-Dec-20,09:47,Reunion,Reunion,7.447,Petra Cort 31.05.21
+9,f,6310,DG-4,W,2,47,1-Dec-20,10:45,Baseline2,Baseline,2.727,Petra Cort 21.06.21
+9,f,6310,DG-4,W,1,48,2-Dec-20,08:20,Baseline2,Baseline,7.227,Petra Cort 21.06.21
+9,f,6310,DG-4,W,1,49,3-Dec-20,08:10,Baseline2,Baseline,5.115,Petra Cort 21.06.21
+9,f,6310,DG-4,W,1,50,4-Dec-20,08:15,Baseline2,Baseline,4.472,Petra Cort 21.06.21
+9,f,6369,DG-3,F,1,60,02. Nov 20,08:32,Baseline3,Baseline,7.295,Petra Cort 11.05.21
+9,f,6369,DG-3,F,1,60,02. Nov 20,08:57,Separation,Separation,28.707,Petra Cort 11.05.21
+9,f,6369,DG-3,F,1,60,02. Nov 20,09:20,Reunion,Reunion,9.912,Petra Cort 11.05.21
+9,f,6369,DG-3,F,1,46,19-Oct-20,08:47,Baseline2,Baseline,3.44,Petra Cort 11.06.21
+9,f,6369,DG-3,F,2,28,1-Oct-20,09:08,Weaning,Weaning,8.518,Petra_Cort_12.04.21
+9,f,6369,DG-3,F,2,35,8-Oct-20,09:55,Play,Play,4.364,Petra_Cort_12.04.21
+9,f,6369,DG-3,F,2,36,9-Oct-20,09:54,Baseline1,Baseline,5.551,Petra_Cort_12.04.21
+9,f,6407,DG-5,F,2,28,14. Jan 21,09:17,Weaning,Weaning,15.693,Petra_Cort_16.04.21
+9,f,6407,DG-5,F,2,35,21. Jan 21,09:43,Play,Play,8.857,Petra_Cort_28.04.21
+9,f,6407,DG-5,F,2,36,22. Jan 21,09:39,Baseline1,Baseline,12.899,Petra_Cort_16.04.21
+9,f,6407,DG-5,F,1,47,02. Feb 21,08:40,Baseline2,Baseline,4.394,Petra Cort 21.06.21
+9,f,6407,DG-5,F,1,48,03. Feb 21,08:35,Baseline2,Baseline,3.056,Petra Cort 21.06.21
+9,f,6407,DG-5,F,2,49,04. Feb 21,10:25,Baseline2,Baseline,5.252,Petra Cort 21.06.21
+9,f,6407,DG-5,F,2,63,18. Feb 21,09:11,Baseline3,Baseline,5.595,Petra.Cort.01.06.21
+9,f,6407,DG-5,F,2,63,18. Feb 21,09:39,Separation,Separation,9.754,Petra.Cort.01.06.21
+9,f,6407,DG-5,F,2,63,18. Feb 21,09:59,Reunion,Reunion,7.958,Petra.Cort.01.06.21
+10,f,6073,DG-3,W,1,63,05. Nov 20,08:25,Baseline3,Baseline,6.912,Petra Cort 14.05.21
+10,f,6073,DG-3,W,1,63,05. Nov 20,08:50,Separation,Separation,8.822,Petra Cort 14.05.21
+10,f,6073,DG-3,W,1,63,05. Nov 20,09:12,Reunion,Reunion,6.603,Petra Cort 14.05.21
+10,f,6073,DG-3,W,1,28,1-Oct-20,08:49,Weaning,Weaning,13.286,Petra_Cort_12.04.21
+10,f,6073,DG-3,W,1,49,22-Oct-20,08:25,Baseline2,Baseline,5.538,Petra Cort 15.06.21
+10,f,6188,DG-4,F,2,28,12. Nov 20,09:23,Weaning,Weaning,10.81,Petra_Cort_15.04.21
+10,f,6188,DG-4,F,2,35,19. Nov 20,09:48,Play,Play,5.617,Petra_Cort_15.04.21
+10,f,6188,DG-4,F,2,36,20. Nov 20,09:45,Baseline1,Baseline,12.439,Petra_Cort_15.04.21
+10,f,6188,DG-4,F,2,64,18-Dec-20,09:36,Baseline3,Baseline,5.562,Petra Cort 27.05.21
+10,f,6188,DG-4,F,2,64,18-Dec-20,10:00,Separation,Separation,17.505,Petra Cort 27.05.21
+10,f,6188,DG-4,F,2,64,18-Dec-20,10:19,Reunion,Reunion,10.365,Petra Cort 27.05.21
+10,f,6188,DG-4,F,2,50,4-Dec-20,11:35,Baseline2,Baseline,6.598,Petra Cort 16.06.21
+10,f,6235,DG-5,W,1,35,21. Jan 21,08:46,Play,Play,14.018,Petra_Cort_28.04.21
+10,f,6235,DG-5,W,1,36,22. Jan 21,08:46,Baseline1,Baseline,25.325,Petra_Cort_28.04.21
+10,f,6235,DG-5,W,1,47,02. Feb 21,08:30,Baseline2,Baseline,2.899,Petra Cort 12.07.21
+10,f,6235,DG-5,W,1,49,04. Feb 21,08:32,Baseline2,Baseline,5.828,Petra Cort 22.06.21
+10,f,6235,DG-5,W,1,63,18. Feb 21,08:27,Baseline3,Baseline,4.764,Petra.Cort.01.06.21
+10,f,6235,DG-5,W,1,63,18. Feb 21,08:52,Separation,Separation,7.218,Petra.Cort.01.06.21
+10,f,6235,DG-5,W,1,63,18. Feb 21,09:11,Reunion,Reunion,7.147,Petra.Cort.01.06.21
+10,f,6310,DG-4,W,1,28,12. Nov 20,08:43,Weaning,Weaning,9.069,Petra_Cort_16.04.21
+10,f,6310,DG-4,W,1,35,19. Nov 20,09:00,Play,Play,10.484,Petra_Cort_15.04.21
+10,f,6310,DG-4,W,1,46,30. Nov 20,08:35,Baseline2,Baseline,7.869,Petra Cort 21.06.21
+10,f,6310,DG-4,W,1,60,14-Dec-20,08:48,Baseline3,Baseline,8.125,Petra Cort 31.05.21
+10,f,6310,DG-4,W,1,60,14-Dec-20,09:16,Separation,Separation,11.909,Petra Cort 31.05.21
+10,f,6310,DG-4,W,1,60,14-Dec-20,09:38,Reunion,Reunion,10.247,Petra Cort 31.05.21
+10,f,6369,DG-3,F,2,60,02. Nov 20,10:03,Baseline3,Baseline,8.28,Petra Cort 11.05.21
+10,f,6369,DG-3,F,2,60,02. Nov 20,10:28,Separation,Separation,11.898,Petra Cort 11.05.21
+10,f,6369,DG-3,F,2,60,02. Nov 20,10:48,Reunion,Reunion,9.928,Petra Cort 11.05.21
+10,f,6369,DG-3,F,1,46,19-Oct-20,08:47,Baseline2,Baseline,6.158,Petra Cort 11.06.21
+10,f,6369,DG-3,F,2,28,1-Oct-20,09:10,Weaning,Weaning,16.353,Petra_Cort_07.04.21
+10,f,6369,DG-3,F,2,35,8-Oct-20,09:47,Play,Play,5.394,Petra_Cort_07.04.21
+10,f,6407,DG-5,F,2,28,14. Jan 21,09:13,Weaning,Weaning,10.252,Petra_Cort_16.04.21
+10,f,6407,DG-5,F,2,35,21. Jan 21,09:37,Play,Play,7.383,Petra_Cort_16.04.21
+10,f,6407,DG-5,F,2,36,22. Jan 21,09:42,Baseline1,Baseline,6.685,Petra_Cort_16.04.21
+10,f,6407,DG-5,F,1,46,01. Feb 21,08:38,Baseline2,Baseline,4.572,Petra Cort 22.06.21
+10,f,6407,DG-5,F,1,49,04. Feb 21,08:28,Baseline2,Baseline,1.94,Petra Cort 12.07.21
+10,f,6407,DG-5,F,2,60,15. Feb 21,10:03,Baseline3,Baseline,5.115,Petra Cort 31.05.21
+10,f,6407,DG-5,F,2,60,15. Feb 21,10:27,Separation,Separation,7.236,Petra Cort 31.05.21
+10,f,6407,DG-5,F,2,60,15. Feb 21,10:50,Reunion,Reunion,8.205,Petra Cort 31.05.21
